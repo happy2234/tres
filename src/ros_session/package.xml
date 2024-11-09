@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros_session</name>
+  <version>0.0.0</version>
+  <description>This package is developed with the purpose of teaching students about publishers and subscribers</description>
+
+  <maintainer email="arjun.k@orangewood.co">Arjun K Haridas</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_export_depend>geometry_msgs</build_export_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+
+</package>
