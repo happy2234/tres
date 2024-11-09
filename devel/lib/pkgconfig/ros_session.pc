@@ -1,0 +1,8 @@
+prefix=/root/ros_ws/devel
+
+Name: ros_session
+Description: Description of ros_session
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
